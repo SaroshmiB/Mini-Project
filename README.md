@@ -29,7 +29,8 @@ This project is a simple 2D interactive website designed to teach essential life
 - `css/`: Folder containing CSS files for styling.
 - `js/`: Folder containing JavaScript files for interactivity and animations.
 - `images/`: Folder containing images used in the website.
-- `Output-Screenshots/`: Contains screenshots and video demonstration
+- `Output-Screenshots/`: Contains screenshots and video demonstration.
+-`Presentation/`: Contains project review presentation.
 
 
 Thank you for checking out this project! We hope it provides valuable learning experiences for autistic individuals and supports their journey towards greater independence and autonomy.
